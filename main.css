@@ -33,6 +33,7 @@ header {
   header nav li a:hover:not(.active) {
     background-color: #555555;
     color: white; }
+    
 
 main {
   display: flex;
